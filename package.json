@@ -1,0 +1,24 @@
+{
+  "name": "pi4",
+  "version": "1.0.0",
+  "description": "PI4",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StillFill/PI4.git"
+  },
+  "keywords": [
+    "PI4",
+    "-",
+    "TADS"
+  ],
+  "author": "Mauricio Gregorio, Fernanda Rezende, Ana Carolina Araujo",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/StillFill/PI4/issues"
+  },
+  "homepage": "https://github.com/StillFill/PI4#readme"
+}
